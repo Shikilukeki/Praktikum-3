@@ -10,7 +10,9 @@ Mata Kuliah : Bahasa Pemograman
 
 
 ## Mencari bilangan terbesar dari bilangan yang diinputkan
-Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputkan hingga input 0. Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
+Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputkan hingga menginputkan `0` untuk mengakhiri perulangan input dan menetapkan bilangan terbesar. 
+
+Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
 
 ## Flowchart Program
 ![Foto](https://github.com/Shikilukeki/Foto/blob/main/Flowchart%20mencari%20bilangan%20terbesar.png?raw=true)
