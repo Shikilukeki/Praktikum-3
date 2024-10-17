@@ -14,15 +14,15 @@ Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputk
 
 Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
 
-## Flowchart Program
+## Flowchart 
 ![Foto](https://github.com/Shikilukeki/Foto/blob/main/Flowchart%20mencari%20bilangan%20terbesar.png?raw=true)
 
 ## Penjelasan kode Program
 ```python
 def find_max():
     MAX = float('-inf')  # Inisialisasi MAX dengan nilai negatif tak terhingga
-    while True:
-        x = float(input("Input x (bilangan): "))  # Input bilangan
+    while True: # Perulangan hingga syarat terpenuhi
+        x = float(input("Input x (bilangan): "))  # Penginputan bilangan
         if x == 0:
             break  # Keluar dari loop jika x adalah 0
         if x > MAX:
