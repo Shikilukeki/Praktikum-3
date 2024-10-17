@@ -31,5 +31,5 @@ find_max()
 
 ```
 
-## Screenshot Hasil Eksekusi Program
-![Screenshot](screenshot.png)
+## Contoh Hasil Eksekusi Program
+![Foto](https://github.com/Shikilukeki/Foto/blob/main/screenshoot.png?raw=true)
