@@ -13,7 +13,7 @@ Mata Kuliah : Bahasa Pemograman
 Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputkan hingga input 0. Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
 
 ## Flowchart Program
-![Flowchart]([flowchart.png](https://github.com/Shikilukeki/Foto/blob/main/flowchart.png?raw=true))
+![Foto](https://github.com/Shikilukeki/Foto/blob/main/flowchart.png?raw=true)
 
 ## Penjelasan kode Program
 ```python
