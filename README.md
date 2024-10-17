@@ -1,4 +1,4 @@
-# Praktikum 3 - Tipe Data, Variable, dan Operator
+# Praktikum 3 
 
 Nama : Rifqi Maulana
 
@@ -9,7 +9,7 @@ NIM : 312410529
 Mata Kuliah : Bahasa Pemograman
 
 
-## Mencari bilangan terbesar dari bilangan yang diinputkan
+## Mencari bilangan terbesar dari serangkaian bilangan yang diinputkan
 Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputkan hingga menginputkan `0` untuk mengakhiri perulangan input dan menetapkan bilangan terbesar. 
 
 Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
