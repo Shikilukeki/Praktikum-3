@@ -15,7 +15,7 @@ Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputk
 Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
 
 ## Flowchart 
-![Foto](https://github.com/Shikilukeki/Foto/blob/main/Flowchart%20mencari%20bilangan%20terbesar.png?raw=true)
+![Foto](https://github.com/Shikilukeki/Foto/blob/main/Flowchart%20bilangan%20terbesar%20yang%20diinputkan.png?raw=true)
 
 ## Penjelasan kode Program
 ```python
