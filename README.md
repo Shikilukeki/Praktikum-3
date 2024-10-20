@@ -69,4 +69,4 @@ find_max()
 Memanggil fungsi `find_max` untuk menjalankan semua instruksi yang ada di dalamnya.
 
 ## Contoh Hasil Eksekusi Program
-![Foto](https://github.com/Shikilukeki/Foto/blob/main/screenshoot.png?raw=true)
+![Foto](https://github.com/Shikilukeki/Foto/blob/main/Menentukan%20bilangan%20terbesar%20berdasarkan%20bilangan%20yang%20diinputkan.py%20-%20Visual%20Studio%20Code%2020_10_2024%2009_34_53.png?raw=true)
