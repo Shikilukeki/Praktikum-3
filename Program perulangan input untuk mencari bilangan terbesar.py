@@ -1,12 +1,11 @@
 def find_max():
-    MAX = float('-inf')  # Inisialisasi MAX dengan nilai negatif tak terhingga
+    MAX = int('0')
     while True:
-        x = float(input("Input x (bilangan): "))  # Input bilangan
+        x = int(input("Inputkan Bilangan x : "))
         if x == 0:
-            break  # Keluar dari loop jika x adalah 0
+            break
         if x > MAX:
-            MAX = x  # Update MAX jika x lebih besar dari MAX
-    print("Output =", MAX)  # Output nilai MAX terbesar
+            MAX = x
+    print("Bilangan terbesar adalah :", MAX)
 
 find_max()
-
