@@ -18,10 +18,6 @@ Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai te
 ![Foto](https://github.com/Shikilukeki/Foto/blob/main/Flowchart%20bilangan%20terbesar%20yang%20diinputkan.png?raw=true)
 
 ## Penjelasan kode Program
-```python
-def find_max():
-```
-Perintah `def find_max():` adalah bagian dari sintaks dalam bahasa pemrograman Python yang digunakan untuk mendefinisikan sebuah fungsi bernama `find_max()`. Fungsi ini untuk menulis serangkaian instruksi yang dapat dipanggil berkali-kali dalam program.
 
 ```python
 MAX = int('0')
@@ -63,10 +59,6 @@ print("Bilangan terbesar adalah :", MAX)
 ```
 Setelah loop berhenti (ketika pengguna menginput 0), program mencetak nilai `MAX` yang merupakan bilangan terbesar yang diinputkan pengguna.
 
-```python
-find_max()
-```
-Memanggil fungsi `find_max` untuk menjalankan semua instruksi yang ada di dalamnya.
 
 ## Contoh Hasil Eksekusi Program
-![Foto](https://github.com/Shikilukeki/Foto/blob/main/Menentukan%20bilangan%20terbesar%20berdasarkan%20bilangan%20yang%20diinputkan.py%20-%20Visual%20Studio%20Code%2020_10_2024%2009_34_53.png?raw=true)
+![Foto](https://github.com/Shikilukeki/Foto/blob/main/%E2%97%8F%20Menentukan%20bilangan%20terbesar%20berdasarkan%20bilangan%20yang%20diinputkan.py%20-%20Visual%20Studio%20Code%2021_10_2024%2015_53_57.png?raw=true)
